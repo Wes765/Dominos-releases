@@ -14,17 +14,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/Wes765/Dominos-releases/releases/download/v0.2.0/Dominos-0.2.0.zip" length="1872714" type="application/octet-stream" sparkle:edSignature="8Z4BG8qU0aJFpjp+yoY/tI810zfyoPcNUa/RJSlqruriGMrZP/uBY/5CJoPQs0yfPQhuQrYHmjYDZgEtP9byAw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Wes765/Dominos-releases/releases/download/v0.2.0/Dominos2-1.delta" sparkle:deltaFrom="1" length="179546" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="S2mZ8fuhZHJtsK8sRtsA2QcYzR5zciPPJoIW1FcmRRZrjNQ5lfXVVdrn1QokSSr0uO/8tDNcj7JTU8YRiLTVBg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Sat, 04 Jul 2026 01:35:59 -0600</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Wes765/Dominos-releases/releases/download/v0.2.0/Dominos-0.1.0.zip" length="1862459" type="application/octet-stream" sparkle:edSignature="6NsmHBX9L3ElazBb9fDsKfDC8DbV+5uD+WFwNo0Z6hSyAPqAlputxneUjrJgCgOQlSUv5YEXBZDIruyb6YSzCg=="/>
         </item>
     </channel>
 </rss>
