@@ -3,17 +3,17 @@
     <channel>
         <title>Dominos</title>
         <item>
-            <title>0.4.2</title>
-            <pubDate>Sat, 04 Jul 2026 02:33:26 -0600</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+            <title>0.5.0</title>
+            <pubDate>Sat, 04 Jul 2026 02:48:20 -0600</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Dominos 0.4.2</h2>
+            <description><![CDATA[<h2>Dominos 0.5.0</h2>
 <ul>
-  <li>Test release to confirm in-app updates install cleanly. No functional changes.</li>
+  <li><b>Buttons instead of toolbars:</b> the menu's account, order-type, tracker, and cart controls are now a plain row of buttons across the top, and the pizza builder's Cancel and Add to Cart / Save are a button row at the bottom. No more toolbar.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/Wes765/Dominos-releases/releases/download/v0.4.2/Dominos-0.4.2.zip" length="2065515" type="application/octet-stream" sparkle:edSignature="LJWtmRH576N4s60fZXN74oDT/DHcCbOHbsNo6HlCYpQwwJzZAzvTJ3eY4RlayMwy9qu4X9sf5nJ2hhb27gGZBw=="/>
+            <enclosure url="https://github.com/Wes765/Dominos-releases/releases/download/v0.5.0/Dominos-0.5.0.zip" length="2066615" type="application/octet-stream" sparkle:edSignature="wJ8Br5KpIWwde/kMObMw0TnXMBUDz/ty0DY6QjWBMMOGQcAf5hD5A/JEZptWPHk81BQS1dcuYzi0Q6n5CqQsBA=="/>
         </item>
     </channel>
 </rss>
