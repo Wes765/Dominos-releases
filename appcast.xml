@@ -3,17 +3,17 @@
     <channel>
         <title>Dominos</title>
         <item>
-            <title>0.4.0</title>
-            <pubDate>Sat, 04 Jul 2026 02:23:54 -0600</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <title>0.4.1</title>
+            <pubDate>Sat, 04 Jul 2026 02:31:21 -0600</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Dominos 0.4.0</h2>
+            <description><![CDATA[<h2>Dominos 0.4.1</h2>
 <ul>
-  <li><b>Delivery tracking detail:</b> when a delivery is out, the tracker now also reads the driver's phone number, how many stops are ahead of you, and how far along the route the driver is.</li>
+  <li><b>Fixes in-app updates:</b> the installer failed to launch on earlier builds because the app wasn't built with the hardened runtime its updater components use. It now matches, so "Check for Updates" installs cleanly.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/Wes765/Dominos-releases/releases/download/v0.4.0/Dominos-0.4.0.zip" length="2065501" type="application/octet-stream" sparkle:edSignature="59A6TV+PvGGsym7yMbv+fyJoyeBFNStr3jT0dWCYYpaY6H2jqgbTQ9Ld3itdAA4iU7w/UC7cMb4rT9BIVrKTAg=="/>
+            <enclosure url="https://github.com/Wes765/Dominos-releases/releases/download/v0.4.1/Dominos-0.4.1.zip" length="2065516" type="application/octet-stream" sparkle:edSignature="WQuQsHd5QPd2G9GaG6ZUdfov4m2DOhg5HOUrNmpltdNx8tMhw5qSGrUU7PsJfOQZVY3lCKRPuF3xA3PACEyVAA=="/>
         </item>
     </channel>
 </rss>
