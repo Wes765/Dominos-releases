@@ -3,17 +3,19 @@
     <channel>
         <title>Dominos</title>
         <item>
-            <title>0.2.0</title>
-            <pubDate>Sat, 04 Jul 2026 01:51:11 -0600</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <title>0.3.0</title>
+            <pubDate>Sat, 04 Jul 2026 02:17:57 -0600</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Dominos 0.2.0</h2>
+            <description><![CDATA[<h2>Dominos 0.3.0</h2>
 <ul>
-  <li><b>Menu navigation:</b> VoiceOver now announces "expanded" or "collapsed" when you open or close a category or deals group with the arrow keys. Before, the row toggled silently.</li>
+  <li><b>Order tracker:</b> a new "Track Order" button opens a tracker window that finds your active orders and shows their live status. It updates on its own (no refresh button) and speaks up only when the status actually changes.</li>
+  <li><b>Stays signed in:</b> the app now renews your login automatically, so sessions no longer expire out from under you.</li>
+  <li><b>Food photos:</b> menu items and deals now show a thumbnail (hidden from VoiceOver, so it adds no clutter).</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/Wes765/Dominos-releases/releases/download/v0.2.0/Dominos-0.2.0.zip" length="1872714" type="application/octet-stream" sparkle:edSignature="8Z4BG8qU0aJFpjp+yoY/tI810zfyoPcNUa/RJSlqruriGMrZP/uBY/5CJoPQs0yfPQhuQrYHmjYDZgEtP9byAw=="/>
+            <enclosure url="https://github.com/Wes765/Dominos-releases/releases/download/v0.3.0/Dominos-0.3.0.zip" length="2053004" type="application/octet-stream" sparkle:edSignature="ipPl+hJzRxz+dLz9T/aexPTdi5HN8Lsgt/PE0cLl7VdiOtNxClqeMO56FEuGYgRVAVZaf4dQ+lEO1lOW6wWSDw=="/>
         </item>
     </channel>
 </rss>
